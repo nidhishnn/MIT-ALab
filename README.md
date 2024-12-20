@@ -4,6 +4,7 @@
 Nidhish Nerur, Hunter Sporn, Jaeyoon Wang, and Naiqi Zhang 
 
 A Collaboration with Sanofi: "Patient Like Me" (MIT 15.572 Analytics Lab)
+
 1st Place out of 21 MIT Teams in semester-long project-based analytics lab competition.
 
 ## Executive Summary
